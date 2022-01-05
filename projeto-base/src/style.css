@@ -1,6 +1,9 @@
 .fonte-titulo{
   font-family: 'Pacifico', cursive;  
 }
+.cor-titulo-principal{
+  color: darkred;
+}
 .imagem-carrossel{
   object-fit:cover;
   object-position: 0 75%;
@@ -10,5 +13,18 @@
 .imagem-carrossel-dois{
   object-fit:cover;
   height: 400px;
-  
+}
+.botao-cor-especial{
+  background-color: darkred;
+  color:white;
+}
+.borda-botao-especial{
+  border-color: darkred;
+}
+.imagem-card{
+  height:200px;
+  object-fit:cover;
+}
+.artigocard{
+  width: 18rem;
 }
