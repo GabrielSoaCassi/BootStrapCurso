@@ -2,7 +2,7 @@
   font-family: 'Pacifico', cursive;  
 }
 .cor-titulo-principal{
-  color: darkred;
+  color: darkred!important;
 }
 .imagem-carrossel{
   object-fit:cover;
@@ -25,6 +25,7 @@
   height:200px;
   object-fit:cover;
 }
-.artigocard{
+#artigocard{
   width: 18rem;
+  border-color: darkred;
 }
